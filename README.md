@@ -8,7 +8,7 @@ Grapho is a Chrome extension that enhances your web development experience by pr
 
 ## Preview
 
-<img src="src/assets/screenshot.png" alt="App Screenshot" style="border-radius: 10px;">
+<img src="src/assets/screenshot2.png" alt="App Screenshot" style="border-radius: 10px;">
 
 ## Features
 
