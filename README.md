@@ -1,4 +1,6 @@
-# Grapho - Chrome DevTools Extension
+<img src="src/assets/grapho-icon.png" alt="Logo" width="150" height="150" style="display: block; margin: 0 auto; border-radius: 50%;">
+
+<h1 style="text-align: center;">Grapho - Chrome DevTools Extension</h1>
 
 Grapho is a Chrome extension that enhances your web development experience by providing a comprehensive overview of HTTP calls made by a web page in the Chrome Developer Tools. It offers a convenient way to visualize and interact with JSON-formatted HTTP responses, helping developers analyze network activity and troubleshoot issues efficiently.
 
@@ -6,7 +8,7 @@ Grapho is a Chrome extension that enhances your web development experience by pr
 
 ## Preview
 
-![App Screenshot](src/assets/screenshot.png)
+<img src="src/assets/screenshot.png" alt="App Screenshot" style="border-radius: 10px;">
 
 ## Features
 

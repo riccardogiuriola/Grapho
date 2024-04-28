@@ -12,6 +12,11 @@ const manifest = defineManifest({
   manifest_version: 3,
   name: "Grapho",
   version: pkg.version,
+  icons: {
+    "16": "src/assets/grapho-icon.png",
+    "48": "src/assets/grapho-icon.png",
+    "128": "src/assets/grapho-icon.png"
+  },
   content_scripts: [
     {
       js: ["src/content-script.ts"],
